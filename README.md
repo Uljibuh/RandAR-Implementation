@@ -210,7 +210,7 @@ The MNIST implementation uses a small decoder-only causal Transformer.
 
 Main components:
 
-* MNIST \(28\times28\) grayscale images;
+* MNIST $\(28\times28\)$ grayscale images;
 * 784 pixel locations;
 * discretized grayscale pixel-value tokens;
 * row and column embeddings for spatial location;
