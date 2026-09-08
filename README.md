@@ -2,7 +2,7 @@
 
 This project implements a simplified **RandAR-style random-order autoregressive Transformer** on the MNIST dataset.
 
-The goal is to understand the first principles behind random-order autoregressive generation and test whether a model trained only on randomly ordered complete images can generalize to tasks such as partial-image completion and inpainting.
+The goal is to understand the first principles behind random-order autoregressive generation and test whether a model trained only on randomly ordered complete images can generalize to tasks such as partial-image completion and inpainting and outpainting.
 
 ## Core idea
 
